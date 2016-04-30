@@ -1,5 +1,5 @@
 package com.tse.dao;
 
-public class UserDao {
+public interface UserDao {
 
 }
